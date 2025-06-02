@@ -5,7 +5,7 @@
 - 🤖 My interests: Robotics | AI | Computer Vision | Reinforcement Learning
 - 🌱 I’m currently learning **ROS 2, YOLO, Sim2Real Transfer, and RL-based Grasping**
 - 💬 Ask me about **robotic arms, vision-based control, ROS, or drone design**
-- 📫 How to reach me: **kashifrobotics@gmail.com**
+- 📫 How to reach me: **kashifalam0407@gmail.com**
 - 📹 I share my work on [YouTube](https://www.youtube.com/@electroboticsai) [GitHub](https://github.com/KashifAlam407) [Instagram](https://instagram.com/kashifalam0407) [LinkedIn](Coming Soon....)
 - ⚡ Fun fact: I’m building robots with a dream to compete with **Boston Dynamics & Tesla Optimus**
 
