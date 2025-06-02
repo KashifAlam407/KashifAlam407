@@ -29,6 +29,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
+![CircuitPython](https://img.shields.io/badge/CircuitPython-2A2A2A?style=for-the-badge&logo=adafruit&logoColor=white)
 
 ---
 
@@ -39,6 +41,9 @@
 ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=YOLO&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-2C3E50?style=for-the-badge&logo=OpenSource&logoColor=white)
 ![RViz](https://img.shields.io/badge/RViz-CC2927?style=for-the-badge&logo=OpenSource&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-20C997?style=for-the-badge)
+
 
 ---
 
@@ -62,6 +67,10 @@
 - 🚁 Soldier-Oriented Ornithopter with Stabilized AI-Based Control
 - 🧠 Sim2Real Reinforcement Learning for Robotic Manipulation
 - 🎯 Real-Time Object Detection with Custom YOLOv8 Models on Edge Devices
+- 🧠 Real-Time Hand Gesture Control using MediaPipe + OpenCV
+- 👁️ Eye-Controlled Robot Navigation using MediaPipe
+- 📷 Advanced Image Processing for Object Detection & Control
+
 
 ---
 
