@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **ROS 2, YOLO, Sim2Real Transfer, and RL-based Grasping**
 - 💬 Ask me about **robotic arms, vision-based control, ROS, or drone design**
 - 📫 How to reach me: **kashifrobotics@gmail.com**
-- 📹 I share my work on [YouTube](https://www.youtube.com/@KashifAlam407) and [GitHub](https://github.com/KashifAlam407)
+- 📹 I share my work on [YouTube](https://www.youtube.com/@electroboticsai) [GitHub](https://github.com/KashifAlam407) [Instagram](https://instagram.com/kashifalam0407) [LinkedIn](Coming Soon....)
 - ⚡ Fun fact: I’m building robots with a dream to compete with **Boston Dynamics & Tesla Optimus**
 
 ---
@@ -43,7 +43,7 @@
 ### 🧳 Connect With Me
 
 <p align="left">
-  <a href="mailto:kashifrobotics@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.youtube.com/@KashifAlam407"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://github.com/KashifAlam407"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:kashifalam407@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/@electroboticsai"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://github.com/KashifAlam0407"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
