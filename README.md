@@ -1,35 +1,49 @@
-# 👋 Hi, I'm Kashif Alam
+<h1 align="center">Hi 👋, I'm Kashif Alam</h1>
+<h3 align="center">A passionate Robotics Engineer | AI Enthusiast | Developer</h3>
 
-💡 I'm an aspiring **Robotics Engineer** passionate about building intelligent robotic systems using **AI**, **computer vision**, and **embedded technologies**.
-
----
-
-## 🚀 What I Work On:
-- 🤖 Autonomous Robots & Robotic Arms  
-- 🧠 AI + YOLO + OpenCV Object Detection  
-- 🔧 Arduino, ESP32, MPU6050, PCA9685  
-- 🛠️ ROS2 | URDF | RViz | Gazebo  
-- 📊 Real-Time Visualization & Control Systems  
+- 🔭 I’m currently building **Autonomous Robots & Drones**
+- 🤖 My interests: Robotics | AI | Computer Vision | Reinforcement Learning
+- 🌱 I’m currently learning **ROS 2, YOLO, Sim2Real Transfer, and RL-based Grasping**
+- 💬 Ask me about **robotic arms, vision-based control, ROS, or drone design**
+- 📫 How to reach me: **kashifrobotics@gmail.com**
+- 📹 I share my work on [YouTube](https://www.youtube.com/@KashifAlam407) and [GitHub](https://github.com/KashifAlam407)
+- ⚡ Fun fact: I’m building robots with a dream to compete with **Boston Dynamics & Tesla Optimus**
 
 ---
 
-## 📂 Featured Repositories:
-- 🔹 [Python-Module](https://github.com/KashifAlam407/Python-Module) — Python modules used in robotics  
-- 🔹 [OpenCV](https://github.com/KashifAlam407/OpenCV) — Computer vision projects with OpenCV  
-- 🔹 [Python-Code](https://github.com/KashifAlam407/Python-Code) — Full Python programming tutorials  
-- 🔹 [Java-Script-Code](https://github.com/KashifAlam407/Java-Script-Code) — Intermediate JS projects  
-- 🔹 [ExamProject](https://github.com/KashifAlam407/ExamProject) — HTML/CSS-based frontend projects  
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=YOLO&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 📺 Connect with Me:
-- 🎥 [YouTube - @electroboticsai](https://www.youtube.com/@electroboticsai)  
-- 📸 [Instagram - @kashifalam0407](https://instagram.com/kashifalam0407)  
-- 💼 [LinkedIn - Coming Soon]  
-- 💻 [GitHub](https://github.com/KashifAlam407)  
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KashifAlam407&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KashifAlam407&theme=radical" width="47%" />
+</p>
 
 ---
 
-⭐ *Follow my journey as I compete with the best in robotics, from mini arms to real-world AI-based autonomous systems.*
-# KashifAlam407
+### 🧠 Latest Projects
+- 🤖 Autonomous 3-Link Robotic Arm with Object Detection
+- 🚁 Soldier-Oriented Ornithopter with AI-based Control
+- 🦾 AI Grasping using YOLO + Depth Estimation
+- 📦 Real-time Object Detection using Custom YOLO Model
 
+---
+
+### 🧳 Connect With Me
+
+<p align="left">
+  <a href="mailto:kashifrobotics@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/@KashifAlam407"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://github.com/KashifAlam407"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
