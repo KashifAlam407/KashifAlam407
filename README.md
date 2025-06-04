@@ -27,7 +27,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 ![CircuitPython](https://img.shields.io/badge/CircuitPython-2A2A2A?style=for-the-badge&logo=adafruit&logoColor=white)
