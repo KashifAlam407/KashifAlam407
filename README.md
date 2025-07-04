@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Languages**  
 <br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,6 +30,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 ![CircuitPython](https://img.shields.io/badge/CircuitPython-2A2A2A?style=for-the-badge&logo=adafruit&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 ---
 
