@@ -8,47 +8,59 @@
 
 ---
 
-## 👋 About Me
-
+### 👋 About Me
 🧠 Turning imagination into automation  
-🤖 Preparing to breathe life into robots — one line of code at a time  
-
-🎯 I specialize in:
-- AI, Embedded Systems & Advanced Robotics
-- Real-Time Vision Systems using Python, OpenCV, and YOLO
-- Autonomous Control with ROS2 and Linux-based microcontrollers
-
-💡 My mission:  
-To build intelligent machines that can **see, think, decide, and act** — just like living beings.
+🤖 Preparing to breathe life into robots — one line of code at a time
 
 ---
 
-## 🌐 Why I Explore Web Dev, Hacking, and Networking
-
-While robotics is my core, I also study:
-
-- **Networking** 🛰 → So robots can communicate over Wi-Fi, MQTT, and cloud APIs
-- **Ethical Hacking** 🧑‍💻 → To secure robots from intrusion and build resilient systems
-- **Mobile & Web Penetration Testing** 🔐 → To protect user interfaces controlling robots
-- **Web Development** 🌍 → To build real-time dashboards and robot-control UIs
-
-All of these skills allow me to design **end-to-end robotic systems** that are **intelligent, secure, and connected**.
+### 🎯 What I Specialize In
+- **Artificial Intelligence**, **Embedded Systems**, and **Advanced Robotics**
+- **Real-Time Computer Vision** with Python, OpenCV, and YOLO
+- **Autonomous Control** using ROS2 and Linux-based microcontrollers
 
 ---
 
-- 🔭 I’m currently building **Autonomous Robots & Soldier-Oriented Drones**
-- 🤖 Interests: Robotics | AI | Computer Vision | RL | Embedded Systems
-- 🌱 Currently Learning: **ROS 2, YOLOv8, Sim2Real Transfer, RL-based Grasping**
-- 💬 Ask me about: **Robotic Arms, Vision-Based Control, ROS, Embedded Control Systems**
-- 📫 Reach me at: **kashifalam0407@gmail.com**
-- 🎥 I share my work on [YouTube](https://www.youtube.com/@electroboticsai) | [GitHub](https://github.com/KashifAlam407) | [Instagram](https://instagram.com/kashifalam0407)
-- ⚡ Fun fact: I’m building robots with a dream to compete with **Boston Dynamics & Tesla Optimus**
+### 💡 My Mission
+To build intelligent machines that can **see**, **think**, **decide**, and **act** — just like living beings.
 
 ---
 
-## 🚀 Tech Stack
+### 🌐 Why I Explore Web Development, Networking, and Cybersecurity
 
-**Languages**  
+Although robotics is my core, I intentionally explore other domains that **enhance robotics systems holistically**:
+
+- 🛰 **Networking**: Enables robots to communicate over Wi-Fi, MQTT, and Cloud APIs
+- 🧑‍💻 **Ethical Hacking**: Ensures the security of autonomous and connected systems
+- 🔐 **Web & Mobile Pentesting**: Protects robot-facing control interfaces from intrusion
+- 🌍 **Web Development**: Helps build real-time dashboards and robot control UIs
+
+> These skills empower me to create **end-to-end robotic ecosystems** that are secure, intelligent, and connected to the world.
+
+---
+
+### 🔭 Currently Working On
+- 🤖 Autonomous Soldier-Oriented Drones
+- 🤖 Modular Robotic Arms
+- 🤖 Real-Time AI Grasping Systems
+- 🌱 Learning: ROS 2, YOLOv8, Sim2Real Transfer, RL-based Grasping
+
+---
+
+### 💬 Ask Me About
+Robotic Arms · Vision-Based Control · ROS2 · Embedded Robotics · Autonomous Drones
+
+📫 Reach me: [kashifalam0407@gmail.com](mailto:kashifalam0407@gmail.com)  
+🎥 I share my work on: [YouTube](#) · [GitHub](https://github.com/KashifAlam407) · [Instagram](#)
+
+⚡ **Fun Fact:**  
+I’m building robots with a dream to compete with **Boston Dynamics** & **Tesla Optimus**
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +71,7 @@ All of these skills allow me to design **end-to-end robotic systems** that are *
 ![CircuitPython](https://img.shields.io/badge/CircuitPython-2A2A2A?style=for-the-badge&logo=adafruit&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**AI / CV / Robotics**  
+### 🤖 AI / CV / Robotics  
 ![YOLO](https://img.shields.io/badge/YOLO-292929?style=for-the-badge&logo=darkreader&logoColor=yellow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -67,21 +79,21 @@ All of these skills allow me to design **end-to-end robotic systems** that are *
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esphome&logoColor=white)
 
-**Web Dev**  
+### 🌍 Web Development  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Tools / OS / Other**  
+### 🛠️ Tools / OS / Other  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Cybersecurity & Pentesting**  
+### 🛡️ Cybersecurity & Pentesting  
 ![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=gnupg&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-346AC3?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -90,16 +102,16 @@ All of these skills allow me to design **end-to-end robotic systems** that are *
 
 ---
 
-### 🧠 Latest Robotics Projects
+## 🧠 Latest Robotics Projects
 
-- 🤖 Autonomous 3-Link Robotic Arm with Object Detection & Grasping
-- 🦾 AI Grasping System using YOLO + Depth Estimation + RL
-- 🚁 Soldier-Oriented Ornithopter with Stabilized AI-Based Control
-- 🧠 Sim2Real Reinforcement Learning for Robotic Manipulation
-- 🎯 Real-Time Object Detection with Custom YOLOv8 Models on Edge Devices
-- 🧠 Real-Time Hand Gesture Control using MediaPipe + OpenCV
-- 👁️ Eye-Controlled Robot Navigation using MediaPipe
-- 📷 Advanced Image Processing for Object Detection & Control
+- 🤖 **Autonomous 3-Link Robotic Arm** with Object Detection & Grasping  
+- 🦾 **AI Grasping System** using YOLO + Depth Estimation + Reinforcement Learning  
+- 🚁 **Soldier-Oriented Ornithopter** with Stabilized AI-Based Control  
+- 🧠 **Sim2Real Reinforcement Learning** for Robotic Manipulation  
+- 🎯 **Real-Time Object Detection** with YOLOv8 on Edge Devices  
+- 🧠 **Real-Time Hand Gesture Control** using MediaPipe + OpenCV  
+- 👁️ **Eye-Controlled Navigation Robot** using MediaPipe  
+- 📷 **Advanced Image Processing** for Object Detection & Control
 
 ---
 
