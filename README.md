@@ -9,8 +9,7 @@
 ---
 
 ### 👋 About Me
-🧠 Turning imagination into automation  
-🤖 Preparing to breathe life into robots — one line of code at a time
+🎓 BS AI & Cybersecurity @ IIT Patna | 🤖 Robotics Explorer: ROS2, Computer Vision, SLAM, Navigation, Simulation | 🔐 Bridging Cybersecurity with Robotics | 🚀 Future Advanced Robotics Engineer
 
 ---
 
