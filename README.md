@@ -36,8 +36,8 @@ To build intelligent machines that can **see**, **think**, **decide**, and **act
 ### 💬 Ask Me About
 Robotic Arms · Vision-Based Control · ROS2 · Embedded Robotics · Autonomous Drones
 
-📫 Reach me: [kashifalam0407@gmail.com](mailto:kashifalam0407@gmail.com)  
-🎥 I share my work on: [YouTube](#) · [GitHub](https://github.com/KashifAlam407) · [Instagram](https://instagram.com/kashifalam4142)
+📫 Reach me: [mdkashifalam376@gmail.com](mailto:mdkashifalam376@gmail.com)  
+🎥 I share my work on: [YouTube](https://www.youtube.com/@electroboticsAi) · [GitHub](https://github.com/KashifAlam407) · [Instagram](https://instagram.com/kashifalam4142)
 
 ---
 
